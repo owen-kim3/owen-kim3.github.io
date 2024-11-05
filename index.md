@@ -12,13 +12,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hello everyone, my name is Owen Kim. I am a current senior at Whitman College, majoring in Economics with coursework in Data Science and Geology. My interests lie in ... with the hopes of going into a career in Asset Management or M & A. 
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> 
+> 
+> 
 
 ### Header 3
 
