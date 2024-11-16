@@ -1,5 +1,11 @@
 title: Owen Kim, Whitman College
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+description: 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+url: https://owen-kim3.github.io
+baseurl: ""
+
+social_links:
+  linkedin: https://www.linkedin.com/in/owenkim03/
