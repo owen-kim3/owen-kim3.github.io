@@ -1,20 +1,18 @@
 ---
 layout: default
 ---
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Owen Kim's GitHub Page
 
-[Link to another page](./another-page.html).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/owenkim03/) to learn more about my professional background, education, and skills.
 
-There should be whitespace between paragraphs.
+Welcome to my GitHub page!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## About me
 
-# Header 1
+Hello everyone, my name is Owen Kim. I am a current senior at Whitman College, majoring in Economics with coursework in Data Science and Geology. I am passionate about ESG investing and the energy transition space, with the hopes of going into a career in investments or asset management. 
 
-Hello everyone, my name is Owen Kim. I am a current senior at Whitman College, majoring in Economics with coursework in Data Science and Geology. My interests lie in ... with the hopes of going into a career in Asset Management or M & A. 
-
-## Header 2
+## Data Sources and Project Ideas
 
 > 
 > 
