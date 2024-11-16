@@ -1,22 +1,41 @@
 ---
 layout: default
 ---
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 # Owen Kim's GitHub Page
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/owenkim03/) to learn more about my professional background, education, and skills.
-
-Welcome to my GitHub page!
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/owenkim03/) to learn more about my professional background, education, and skills! Welcome to my GitHub page!
 
 ## About me
 
-Hello everyone, my name is Owen Kim. I am a current senior at Whitman College, majoring in Economics with coursework in Data Science and Geology. I am passionate about ESG investing and the energy transition space, with the hopes of going into a career in investments or asset management. 
+I am a current senior at Whitman College, majoring in Economics with coursework in Data Science and Geology. I am passionate about ESG investing and the energy transition space, with the hopes of going into a career in investments or asset management. 
 
 ## Data Sources and Project Ideas
 
-> 
-> 
-> 
+1. **UEFA Champions League Dataset**  
+   - **Link**: [Sports Data]((https://sports-statistics.com/sports-data/sports-data-sets-for-data-modeling-visualization-predictions-machine-learning/))  
+   - **Description**: Historical Champions League statistics, including statistics on individual players, clubs, and coaches.   
+   - **Project Idea**:   
+
+2. **Kaggle Datasets**  
+   - **Link**: [Kaggle](https://www.kaggle.com/datasets)  
+   - **Description**: A vast collection of datasets on numerous topics.  
+   - **Project Idea**: Predict housing prices using regression analysis.
+
+3. **UCI Machine Learning Repository**  
+   - **Link**: [UCI Repository](https://archive.ics.uci.edu/ml/index.php)  
+   - **Description**: Popular machine learning datasets.  
+   - **Project Idea**: Classify email spam using NLP techniques.  
+
+4. **NOAA Climate Data**  
+   - **Link**: [NOAA Climate Data](https://www.ncdc.noaa.gov/data-access)  
+   - **Description**: Historical climate data.  
+   - **Project Idea**: Explore the impact of climate change on local temperatures.  
+
+5. **UN Data Portal**  
+   - **Link**: [UN Data](http://data.un.org/)  
+   - **Description**: A gateway to global statistics.  
+   - **Project Idea**: Analyze international trade patterns.
 
 ### Header 3
 
