@@ -42,7 +42,6 @@ I am a current senior at Whitman College, majoring in Economics with additional 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Interactive Heatmap</title>
 </head>
 <body>
   <h1>Interactive Heatmap</h1>
