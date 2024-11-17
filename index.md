@@ -37,3 +37,15 @@ I am a current senior at Whitman College, majoring in Economics with additional 
 
 ## Where's Schueller? Plotly Visualization
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Heatmap</title>
+</head>
+<body>
+  <h1>Interactive Heatmap</h1>
+  <iframe src="peak_heatmap.html" width="100%" height="600px" style="border:none;"></iframe>
+</body>
+</html>
