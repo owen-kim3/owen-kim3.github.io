@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Owen Kim's GitHub Page
-
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/owenkim03/) to learn more about my professional background, education, and skills! Welcome to my GitHub page!
 
 ## About me
