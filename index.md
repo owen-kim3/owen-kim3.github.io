@@ -13,7 +13,7 @@ I am a current senior at Whitman College, majoring in Economics with additional 
 1. **UEFA Champions League Dataset**  
    - **Link**: [Sports Data]((https://sports-statistics.com/sports-data/sports-data-sets-for-data-modeling-visualization-predictions-machine-learning/))  
    - **Description**: Historical Champions League statistics since the intoduction of the Champions League. Including statistics on individual players, clubs, and coaches.   
-   - **Project Idea**:   
+   - **Project Idea**: How does a change in coaching staff affect a clubs success in the Champions League? Are there any common trends across clubs? 
 
 2. **Global Surface Temperatures**  
    - **Link**: [HadCRUT4](https://www.metoffice.gov.uk/hadobs/hadcrut4/)  
@@ -30,10 +30,10 @@ I am a current senior at Whitman College, majoring in Economics with additional 
    - **Description**: Historical financial return on investment data, spanning from 1928 to 2023. Includes data on S&P 500, treasury bills and bonds, real estate, and gold.
    - **Project Idea**: How have historical world events, such as wars or diseases, affected the return on investments of stocks, bonds, bills, real estate, and gold?  
 
-5. **UN Data Portal**  
-   - **Link**: [UN Data](http://data.un.org/)  
-   - **Description**: A gateway to global statistics.  
-   - **Project Idea**: Analyze international trade patterns.
+5. **Consumer Expenditure Surveys**  
+   - **Link**: [Bureau of Labor Statistics](https://www.bls.gov/cex/)  
+   - **Description**: A dataset from the Bureau of Labor Statistics that is tracking consumer's spending habits, income, and demographics throughout the US.  
+   - **Project Idea**: How have consumer spending habits changed on different good types (consumer goods, durable goods, luxary goods, normal goods, etc)? What factors could have affect consumers spending habits?
 
-## Where's Schueller
+## Where's Schueller plotly visualization
 
