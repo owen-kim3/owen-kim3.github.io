@@ -37,14 +37,12 @@ I am a current senior at Whitman College, majoring in Economics with additional 
 
 ## Where's Schueller? Plotly Visualization
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Where's Schueller</h1>
   <iframe src="peak_heatmap.html" width="100%" height="600px" style="border:none;"></iframe>
 </body>
 </html>
