@@ -35,7 +35,7 @@ I am a senior at Whitman College majoring in Economics with additional coursewor
    - **Description**: A dataset from the Bureau of Labor Statistics that is tracking consumer's spending habits, income, and demographics throughout the US.  
    - **Project Idea**: How have consumer spending habits changed on different good types (consumer goods, durable goods, luxary goods, normal goods, etc)? What factors could have affect consumers spending habits?
 
-## Where's Schueller? Plotly Visualization
+## Where's Schueller? Visualization
 
 <html lang="en">
 <head>
