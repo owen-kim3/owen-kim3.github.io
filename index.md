@@ -6,7 +6,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/owenkim03/) to
 
 ## About me
 
-I am a current senior at Whitman College, majoring in Economics with additional coursework in Data Science and Geology. I am passionate about (the energy transition space and ), with the hopes of going into a career in asset management or investments. 
+I am a senior at Whitman College majoring in Economics with additional coursework in Data Science and Geology. My academic and professional interests focus on the energy transition space, renewable energy investments, and ESG (Environmental, Social, and Governance) investing. After graduation, I hope to build a career in asset management or investments, where I can contribute meaningfully to sustainable financial strategies and innovative solutions for a low-carbon world. 
 
 ## Data Sources and Project Ideas
 
