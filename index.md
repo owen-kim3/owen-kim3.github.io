@@ -17,12 +17,12 @@ I am a senior at Whitman College majoring in Economics with additional coursewor
 
 2. **Global Surface Temperatures**  
    - **Link**: [HadCRUT4](https://www.metoffice.gov.uk/hadobs/hadcrut4/)  
-   - **Description**: The HadCRUT4 dataset provides global surface temperature anomalies to a reference period ofo 1961-90, with data available since 1850.  
+   - **Description**: The HadCRUT4 dataset provides global surface temperature anomalies to a reference period of 1961-90, with data available since 1850.  
    - **Project Idea**: How have global surface temperature anomalies changed across different regions since the mid-20th century? Is there any regional trends that can be identified?
   
 3. **Snow Cover Extent**  
    - **Link**: [NOAA](https://www.ncei.noaa.gov/products/climate-data-records/snow-cover-extent)  
-   - **Description**: Snow cover extent climate satelitte data from NOAA, giving statistics from 1966 to present time of snow coverage throughout the Northern Hemisphere. 
+   - **Description**: Snow cover extent climate satellite data from NOAA, giving statistics from 1966 to present time of snow coverage throughout the Northern Hemisphere. 
    - **Project Idea**: How has snow coverage throughout the Northern Hemisphere changed since 1966? How is this effecting the winter recreation industry?   
 
 4. **US Historical Financial Asset Reutrns**  
